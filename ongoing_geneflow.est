@@ -10,6 +10,4 @@
 0  MIG1      	logunif	0.000001 0.001   output
 0  MIG2      	logunif	0.000001 0.001   output
 
-[RULES]
-
 [COMPLEX PARAMETERS]
