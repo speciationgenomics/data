@@ -13,7 +13,7 @@ NMB
 0
 //historical event: time, source, sink, migrants, new deme size, new growth rate, migration matrix index
 1 historical event
-6000 0 1 1 RSANC 0 0
+6000 0 1 1 NANC 0 0 absoluteResize
 //Number of independent loci [chromosome] 
 1 0
 //Per chromosome: Number of contiguous linkage Block: a block is a set of contiguous loci
